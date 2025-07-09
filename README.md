@@ -71,6 +71,8 @@ python deploys.py
 ```bash
 python client.py
 ```
+![Evacuation Interface](server.png)
+![Evacuation Interface](client.png)
 
 ---
 
