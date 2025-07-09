@@ -118,8 +118,6 @@ python client.py
 ---
 
 ## Authors
-
-- Aashi Kumari (231AI002)
 - Hasini Jaishetty (231AI012)
 - Mubashir Afzal (231AI021)
 - Prajwal Meshram (231AI019)
